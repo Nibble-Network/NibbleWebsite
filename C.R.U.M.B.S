@@ -7,8 +7,8 @@ Place holders for CLI, GUI, Swap form
 Corrected positioning of timer on mobile 
 E.T.R added - Wednesday 22nd May 2019
 Download box removed - will be available through GitHub
-Swap form added
+Swap form removed
 Corrected m to M
 View only Burn address for NibbleClassic
-Burn ratio info added
+Burn ratio info removed
 In Development images added
