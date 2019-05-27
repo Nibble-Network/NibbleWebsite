@@ -13,3 +13,4 @@ View only Burn address for NibbleClassic
 Burn ratio info removed
 In Development images added
 Explorer link added
+Pool link added
