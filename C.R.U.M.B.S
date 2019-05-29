@@ -15,3 +15,4 @@ In Development images added
 Explorer link added
 Pool link added
 Messaging image added
+Crumbs coin specs updated
