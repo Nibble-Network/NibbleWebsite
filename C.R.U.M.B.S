@@ -16,3 +16,4 @@ Explorer link added
 Pool link added
 Messaging image added
 Crumbs coin specs updated
+CLI Download link updated
