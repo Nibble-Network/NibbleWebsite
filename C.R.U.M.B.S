@@ -17,3 +17,4 @@ Pool link added
 Messaging image added
 Crumbs coin specs updated
 CLI Download link updated
+Link added for About Crumbs
