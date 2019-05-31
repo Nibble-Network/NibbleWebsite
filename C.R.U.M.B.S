@@ -21,3 +21,5 @@ Link added for About Crumbs
 Pool link updated
 Coin specs updated
 Dynamic Background
+Text colour update
+Home button updated
