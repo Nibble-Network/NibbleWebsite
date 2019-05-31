@@ -20,3 +20,4 @@ CLI Download link updated
 Link added for About Crumbs
 Pool link updated
 Coin specs updated
+Dynamic Background
