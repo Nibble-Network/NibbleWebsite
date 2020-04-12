@@ -26,3 +26,4 @@ Home button updated
 REMOVED until further notice...
 Aaand were back
 corrected mobile view
+Updated to include Windows version
