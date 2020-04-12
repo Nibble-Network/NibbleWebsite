@@ -28,3 +28,4 @@ Aaand were back
 corrected mobile view
 Updated to include Windows version
 How to guide for VMware & Ubuntu removed
+How to install & run guide updated
