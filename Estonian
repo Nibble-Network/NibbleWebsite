@@ -1,11 +1,10 @@
-Umbes
 
-Nibble on detsentraliseeritud hüvitusplatvorm, mis sisaldab krüptitud sõnumeid ja oma privaatsusega kaitstud krüptovaluutat.
+Nibble on detsentraliseeritud preemiaid andev platvorm, mis sisaldab krüptitud sõnumeid ja privaatsusega kaitstud krüptovaluutat.
 
-Kõik teie NBXC tehingud ja teated on anonüümsed. Nibble'i võrk pakub krüptitud suhtluse - krüptosõnumite - viivitamatut turvalist, jälgitamatut ja lahti ühendamatut viisi.
+Kõik teie NBXC tehingud ja teated on anonüümsed. Nibble võrk pakub krüptitud suhtluse - krüptosõnumite - viivitamatut turvalisust, jälgitamatut ja lahti ühendamatut viisi.
 
 
-Nibble on avatud lähtekoodiga, alati on olnud ja jääb alati. See uusim Nibble väljaanne on loodud projektide ühinemisel - Nibble Classic & Crumbs; Andes oma kasutajatele mõlemast maailmast parima, hõlpsasti kasutatav platvorm, sõnumite edastamise võimalus, hoiused ja hüved.
+Nibble on avatud lähtekoodiga, alati on olnud ja alati jääb. See uusim Nibble väljaanne on loodud kahe projekti ühinemisel - Nibble Classic & Crumbs; Andes oma kasutajatele mõlemast maailmast parima, hõlpsasti kasutatav platvorm, sõnumite edastamise võimalus, hoiused ja hüved.
 
 Meie projekti eesmärk on tutvustada inimestele krüptovaluuta maailma lihtsustatud viisil. Hoiame kõiki aspekte alates kaevandamisest kuni toodete ostmiseni, andes teile võimaluse krüptovaluutat hõlpsalt hankida ja kasutada.
 
@@ -16,35 +15,35 @@ Algo: CryptoNight Conceal
 
 Kleebis: NBXC
 
-Blokeerimise aeg: 120 sekundit
+Plokkide genereerimise aeg: 120 sekundit
 
-Blokeeri preemia: 5-7 NBXC
+Ploki preemia: 5-7 NBXC
 
-Maksimaalne pakkumine: 21 000 000
+Emissiooni kogumaht: 21 000 000
 
 
 Alustamine
 
 Mündi kaevandamiseks on vaja allalaaditavate failide Core-CLI-d.
 
-Kui see on olemas, käivitage deemon, avades oma terminali ja minnes kataloogi, kus deemon asub.
+Kui see on olemas, käivitage Damon, avades oma terminali ja minnes kataloogi, kus Damon asub.
 
 Damoni käitamiseks Linuxis kasutage ./nibbled
 
 Windowsi kasutajate jaoks saate failihalduri abil faili navigeerida ja käivitamiseks topeltklõpsu teha.
 
-Laske deemonil võrguga sünkroonida - näete allolevat sõnumit, kui see on lõpule viidud:
+Laske Damonil võrguga sünkroonida - näete allolevat sõnumit, kui see on lõpule viidud:
 
 Kaevandamise alustamiseks järgige lihtsalt abikäskluse kaudu antud juhiseid.
 
 
-Kui teil veel pole rahakotti ja soovite kasutada CLI-versiooni, avage uus terminal (hoidke deemoni töös) ja leidke fail "nibblewallet"
+Kui teil veel pole rahakotti ja soovite kasutada CLI-versiooni, avage uus terminal (hoidke Damon töös) ja leidke fail "nibblewallet"
 
 Käivitage fail, kasutades ./nibblewallet
 
 Järgige ekraanil antud juhiseid
 
-Nibble'i täielikuks kasutamiseks on vaja NibbleDesktopi GUI-d.
+Nibble täielikuks kasutamiseks on vaja NibbleDesktopi GUI-d.
 
 
 See võimaldab privaatsõnumeid, sissemakseid ja hüvesid.
