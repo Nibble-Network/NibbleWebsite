@@ -1,3 +1,5 @@
+Umbes
+
 Nibble on detsentraliseeritud hüvitusplatvorm, mis sisaldab krüptitud sõnumeid ja oma privaatsusega kaitstud krüptovaluutat.
 
 Visiem, kas noklusina, tacu
@@ -27,3 +29,36 @@ Blokeerimise aeg: 120 sekundit
 Blokeeri preemia: 5-7 NBXC
 
 Maksimaalne pakkumine: 21 000 000
+
+
+Alustamine
+
+Mündi kaevandamiseks on vaja allalaaditavate failide Core-CLI-d.
+
+Kui see on olemas, käivitage deemon, avades oma terminali ja minnes kataloogi, kus deemon asub.
+
+Visiem, kas noklusina, tacu
+
+Damoni käitamiseks Linuxis kasutage ./nibbled
+
+Windowsi kasutajate jaoks saate failihalduri abil faili navigeerida ja käivitamiseks topeltklõpsu teha.
+
+Visiem, kas noklusina, tacu
+
+Laske deemonil võrguga sünkroonida - näete allolevat sõnumit, kui see on lõpule viidud:
+
+Kaevandamise alustamiseks järgige lihtsalt abikäskluse kaudu antud juhiseid.
+
+Visiem, kas noklusina, tacu
+
+Kui teil veel pole rahakotti ja soovite kasutada CLI-versiooni, avage uus terminal (hoidke deemoni töös) ja leidke fail "nibblewallet"
+
+Käivitage fail, kasutades ./nibblewallet
+
+Järgige ekraanil antud juhiseid
+
+Nibble'i täielikuks kasutamiseks on vaja NibbleDesktopi GUI-d.
+
+Visiem, kas noklusina, tacu
+
+See võimaldab privaatsõnumeid, sissemakseid ja hüvesid.
