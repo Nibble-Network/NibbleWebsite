@@ -1,10 +1,10 @@
 
-Nibble on detsentraliseeritud preemiaid andev platvorm, mis sisaldab krüptitud sõnumeid ja privaatsusega kaitstud krüptovaluutat.
+Nibble on detsentraliseeritud preemiaid andev platvorm, mis võimaldab saata krüptitud sõnumeid ja millel on privaatsusega kaitstud oma krüptovaluuta.
 
-Kõik teie NBXC tehingud ja teated on anonüümsed. Nibble võrk pakub krüptitud suhtluse - krüptosõnumite - viivitamatut turvalisust, jälgitamatut ja lahti ühendamatut viisi.
+Kõik teie NBXC tehingud ja teated on anonüümsed. Nibble võrk pakub krüptitud suhtluse krüptosõnumite näol, mis on jälitamatud ja mille saatjaid on võimatu tuvastada.
 
 
-Nibble on avatud lähtekoodiga, alati on olnud ja alati jääb. See uusim Nibble väljaanne on loodud kahe projekti ühinemisel - Nibble Classic & Crumbs; Andes oma kasutajatele mõlemast maailmast parima, hõlpsasti kasutatav platvorm, sõnumite edastamise võimalus, hoiused ja hüved.
+Nibble on alati olnud ja alati jääb avatud lähtekoodiga platvormiks. See uusim Nibble väljaanne on loodud kahe projekti ühinemisel, Nibble Classic & Crumbs, andes oma kasutajatele mõlemast maailmast parima: hõlpsasti kasutatava platvormi, sõnumite edastamise võimaluse, hoiuseid ja hüvesid.
 
 Meie projekti eesmärk on tutvustada inimestele krüptovaluuta maailma lihtsustatud viisil. Hoiame kõiki aspekte alates kaevandamisest kuni toodete ostmiseni, andes teile võimaluse krüptovaluutat hõlpsalt hankida ja kasutada.
 
@@ -24,20 +24,20 @@ Emissiooni kogumaht: 21 000 000
 
 Alustamine
 
-Mündi kaevandamiseks on vaja allalaaditavate failide Core-CLI-d.
+Mündi kaevandamiseks on vaja allalaadida fail Core-CLI.
 
-Kui see on olemas, käivitage Damon, avades oma terminali ja minnes kataloogi, kus Damon asub.
+Kui see on olemas, käivitage kaevandamiseks loodud tarkvara, avage oma käsuviip ja minge kataloogi, kus see tarkvara asub.
 
-Damoni käitamiseks Linuxis kasutage ./nibbled
+Tarkvara käivitamiseks Linuxis kasutage ./nibbled
 
-Windowsi kasutajate jaoks saate failihalduri abil faili navigeerida ja käivitamiseks topeltklõpsu teha.
+Windowsi kasutajate jaoks saate failihalduri abil faili navigeerida ja käivitamiseks tuleb teha topeltklõps.
 
-Laske Damonil võrguga sünkroonida - näete allolevat sõnumit, kui see on lõpule viidud:
+Laske tarkvaral võrguga sünkroniseerida, kui see on lõpule viidud, näete allolevat sõnumit:
 
 Kaevandamise alustamiseks järgige lihtsalt abikäskluse kaudu antud juhiseid.
 
 
-Kui teil veel pole rahakotti ja soovite kasutada CLI-versiooni, avage uus terminal (hoidke Damon töös) ja leidke fail "nibblewallet"
+Kui teil veel pole rahakotti ja soovite kasutada CLI-versiooni, avage uus käsuviip (hoidke tarkvara töös) ja leidke fail "nibblewallet"
 
 Käivitage fail, kasutades ./nibblewallet
 
