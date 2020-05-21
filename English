@@ -1,0 +1,53 @@
+Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency.
+
+All your NBXC transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.
+
+Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic & Crumbs; Giving our users the best from both worlds, a simple to use platform, messaging ability, deposits & rewards.
+
+The purpose of our project is to introduce people to the world of cryptocurrency in a simplistic way. We keep every aspect simple from mining through to buying products, giving you the ability to aquire and use cryptocurrency with ease.
+
+
+Coin specs:
+
+Algo: CryptoNight Conceal
+
+Ticker: NBXC                     
+
+Block time: 120 Seconds  
+
+Block reward: 5-7 NBXC   
+
+Max Supply: 21,000,000  
+
+
+--------------------------------------------------------------------------
+
+To be able to mine the coin you will need the Core-CLI from downloads.
+
+Once you have this, start the daemon by opening your terminal and changing to the directory where the daemon is located.
+
+To run the daemon in Linux use ./nibbled
+
+For Windows users you can navigate to the file using file explorer and just double click to launch.
+
+Allow the daemon to synchronize with the network - you will see the below message once complete:
+
+----------------------------------------------------------------------
+
+
+To start mining simply follow the instruction given via the help command.
+
+If you do not already have a wallet & would like to use the CLI version, open a new terminal (keep the daemon running) and locate the file "nibblewallet"
+
+Run the file using ./nibblewallet
+
+Follow the instruction given on-screen
+
+------------------------------------------------------------------------
+
+
+For the full experience of Nibble, you will need the NibbleDesktop GUI.
+
+This enables private messaging, deposits & rewards.
+
+-------------------------------------------------------------------------
