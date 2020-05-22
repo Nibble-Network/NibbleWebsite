@@ -4,7 +4,7 @@ All your NBXC transactions and messages are anonymous. The Nibble Network provid
 
 Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic & Crumbs; Giving our users the best from both worlds, a simple to use platform, messaging ability, deposits & rewards.
 
-The purpose of our project is to introduce people to the world of cryptocurrency in a simplistic way. We keep every aspect simple from mining through to buying products, giving you the ability to aquire and use cryptocurrency with ease.
+
 
 
 Coin specs:
@@ -21,6 +21,7 @@ Max Supply: 21,000,000
 
 
 --------------------------------------------------------------------------
+Getting started page:
 
 To be able to mine the coin you will need the Core-CLI from downloads.
 
@@ -48,6 +49,11 @@ Follow the instruction given on-screen
 
 For the full experience of Nibble, you will need the NibbleDesktop GUI.
 
-This enables private messaging, deposits & rewards.
 
 -------------------------------------------------------------------------
+
+Features page:
+
+The Nibble Network provides users with a decentralized form of cold staking that earns interests on locked deposits.
+
+A messaging service that operates on the blockchain in a  decentralized & anonymous fashion, providing untraceable end-to-end encryption.
