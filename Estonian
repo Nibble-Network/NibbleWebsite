@@ -29,7 +29,7 @@ Kui see on olemas, käivitage kaevandamiseks loodud tarkvara, avage oma käsuvii
 
 Tarkvara käivitamiseks Linuxis kasutage ./nibbled
 
-Windowsi kasutajate jaoks saate failihalduri abil faili navigeerida ja käivitamiseks tuleb teha topeltklõps.
+Tarkvara käivitamiseks Windowsis, tehke topeltklõps tarvara ikoonil.
 
 Laske tarkvaral võrguga sünkroniseerida, kui see on lõpule viidud, näete allolevat sõnumit:
 
@@ -48,7 +48,7 @@ Nibble täielikuks kasutamiseks on vaja NibbleDesktopi GUI-d.
 
 Funktsioonid:
 
-Nibble võrk võimaldab destentraliseeritud panuste tegemise, mis teenib hoiustelt intressi. 
+Nibble võrk võimaldab detsentraliseeritud panuste tegemise, mis teenib hoiustelt intressi. 
 
 Krüptitud sõnumiteenus, mis töötab plokiahelas detsentraliseeritult ja anonüümselt algusest lõpuni.
 
